@@ -1,0 +1,30 @@
+
+
+#wrapper div {
+	margin: 0 auto;
+	border : 1px solid #ccc;
+	width: 87%;
+	font-family : monospace;
+}
+
+.success{
+	background-color : #58FAAC;
+}
+
+.failure{
+	background-color : #b92b27;
+}
+
+#draganddropitemsid{
+	min-width: 87%;
+	max-width: 87%;
+    min-height: 70px;
+	max-height: 70px;
+	border-right: 1px solid #aaaaaa;
+	border-top: 1px solid #aaaaaa;
+	border-bottom: 1px solid #aaaaaa;
+	border-left: 1px solid #aaaaaa;
+	text-align: center;
+	font-family: monospace;
+	margin: 0 auto;
+}
